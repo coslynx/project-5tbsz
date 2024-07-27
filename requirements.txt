@@ -1,0 +1,14 @@
+discord.py
+youtube-dl
+spotipy
+pydub
+requests
+beautifulsoup4
+dotenv
+python-dotenv
+async-timeout
+aiohttp
+python-dateutil
+SQLAlchemy
+psycopg2
+pymongo
